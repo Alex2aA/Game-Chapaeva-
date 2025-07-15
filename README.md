@@ -2,5 +2,5 @@
 This is a game for my university. Created on the unity engine
 
 
-<h1>Launch</h1>
+<h1>:star:Launch:star:</h1>
 <h2>To run this project you need to download the sources. And move them to your unity hub. Then open it there.</h2>
